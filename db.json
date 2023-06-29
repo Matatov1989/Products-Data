@@ -75,7 +75,7 @@
       {
         "id": 7,
         "name": "Kettle",
-        "imageUrl": "",
+        "imageUrl": "https://images.unsplash.com/photo-1626726602072-4b326c71d6b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
         "shortDescription": "Electric kettle for quick boiling.",
         "longDescription": "An electric kettle with fast heating and automatic shut-off. Perfect for brewing tea and other hot beverages.",
         "price": 39.99,
@@ -87,7 +87,7 @@
       {
         "id": 8,
         "name": "Fitness Tracker",
-        "imageUrl": "",
+        "imageUrl": "https://images.unsplash.com/photo-1557935728-e6d1eaabe558?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1173&q=80",
         "shortDescription": "Smart fitness tracker with activity monitoring.",
         "longDescription": "A smart fitness tracker that monitors activity and heart rate. Track your physical activity and improve your health.",
         "price": 79.99,
@@ -99,7 +99,7 @@
       {
         "id": 9,
         "name": "Vacuum Cleaner",
-        "imageUrl": "",
+        "imageUrl": "https://images.unsplash.com/photo-1584792286782-a5dc95dc2250?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=686&q=80",
         "shortDescription": "Robotic vacuum cleaner with automatic navigation.",
         "longDescription": "A robotic vacuum cleaner with automatic navigation and wet mopping function. Keep your home clean without effort.",
         "price": 299.99,
@@ -111,7 +111,7 @@
       {
         "id": 10,
         "name": "Blender",
-        "imageUrl": "",
+        "imageUrl": "https://images.unsplash.com/photo-1585515320310-259814833e62?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
         "shortDescription": "High-speed blender for smoothies and more.",
         "longDescription": "A high-speed blender that can blend fruits, vegetables, and ice to make delicious smoothies and shakes.",
         "price": 89.99,
