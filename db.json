@@ -99,7 +99,7 @@
       {
         "id": 9,
         "name": "Vacuum Cleaner",
-        "imageUrl": "https://images.unsplash.com/photo-1584792286782-a5dc95dc2250?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=686&q=80",
+        "imageUrl": "",
         "shortDescription": "Robotic vacuum cleaner with automatic navigation.",
         "longDescription": "A robotic vacuum cleaner with automatic navigation and wet mopping function. Keep your home clean without effort.",
         "price": 299.99,
