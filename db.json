@@ -111,7 +111,7 @@
       {
         "id": 10,
         "name": "Blender",
-        "imageUrl": "https://images.unsplash.com/photo-1585515320310-259814833e62?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+        "imageUrl": "",
         "shortDescription": "High-speed blender for smoothies and more.",
         "longDescription": "A high-speed blender that can blend fruits, vegetables, and ice to make delicious smoothies and shakes.",
         "price": 89.99,
