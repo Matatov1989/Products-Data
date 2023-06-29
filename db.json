@@ -3,7 +3,7 @@
       {
         "id": 1,
         "name": "Smartphone",
-        "imageUrl": "",
+        "imageUrl": "https://www.theverge.com/22163811/best-phone",
         "shortDescription": "Powerful smartphone with advanced features.",
         "longDescription": "A feature-packed smartphone with a high-resolution display, fast processor, and advanced camera system.",
         "price": 599.99,
