@@ -3,7 +3,7 @@
       {
         "id": 1,
         "name": "Smartphone",
-        "imageUrl": "https://images.unsplash.com/photo-1517404215738-15263e9f9178?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1517404215738-15263e9f9178?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Powerful smartphone with advanced features.",
         "longDescription": "A feature-packed smartphone with a high-resolution display, fast processor, and advanced camera system.",
         "price": 599.99,
@@ -15,7 +15,7 @@
       {
         "id": 2,
         "name": "Laptop",
-        "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "High-performance laptop for work and play.",
         "longDescription": "A versatile laptop that offers powerful performance for work tasks and gaming.",
         "price": 999.99,
@@ -27,7 +27,7 @@
       {
         "id": 3,
         "name": "Headphones",
-        "imageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Wireless headphones with noise cancellation.",
         "longDescription": "Wireless headphones with active noise cancellation for immersive audio experience.",
         "price": 199.99,
@@ -39,7 +39,7 @@
       {
         "id": 4,
         "name": "Smartwatch",
-        "imageUrl": "https://images.unsplash.com/photo-1632794716789-42d9995fb5b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1632794716789-42d9995fb5b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Smartwatch with health and fitness tracking.",
         "longDescription": "A smartwatch that monitors your health and fitness activities, and keeps you connected with notifications.",
         "price": 149.99,
@@ -51,7 +51,7 @@
       {
         "id": 5,
         "name": "Camera",
-        "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Digital camera for capturing memories.",
         "longDescription": "A high-resolution digital camera that captures stunning photos and videos.",
         "price": 499.99,
@@ -63,7 +63,7 @@
       {
         "id": 6,
         "name": "TV",
-        "imageUrl": "https://images.unsplash.com/photo-1528928441742-b4ccac1bb04c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1528928441742-b4ccac1bb04c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "4K television with vibrant colors.",
         "longDescription": "A 4K television with a large screen and vibrant colors. Enjoy high-resolution content with excellent picture quality.",
         "price": 1499.99,
@@ -75,7 +75,7 @@
       {
         "id": 7,
         "name": "Kettle",
-        "imageUrl": "https://images.unsplash.com/photo-1626726602072-4b326c71d6b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1626726602072-4b326c71d6b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Electric kettle for quick boiling.",
         "longDescription": "An electric kettle with fast heating and automatic shut-off. Perfect for brewing tea and other hot beverages.",
         "price": 39.99,
@@ -87,7 +87,7 @@
       {
         "id": 8,
         "name": "Fitness Tracker",
-        "imageUrl": "https://images.unsplash.com/photo-1557935728-e6d1eaabe558?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1557935728-e6d1eaabe558?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Smart fitness tracker with activity monitoring.",
         "longDescription": "A smart fitness tracker that monitors activity and heart rate. Track your physical activity and improve your health.",
         "price": 79.99,
@@ -99,7 +99,7 @@
       {
         "id": 9,
         "name": "Vacuum Cleaner",
-        "imageUrl": "https://images.unsplash.com/photo-1584792286782-a5dc95dc2250?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1584792286782-a5dc95dc2250?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Robotic vacuum cleaner with automatic navigation.",
         "longDescription": "A robotic vacuum cleaner with automatic navigation and wet mopping function. Keep your home clean without effort.",
         "price": 299.99,
@@ -111,7 +111,7 @@
       {
         "id": 10,
         "name": "Blender",
-        "imageUrl": "https://images.unsplash.com/photo-1585515320310-259814833e62?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1585515320310-259814833e62?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "High-speed blender for smoothies and more.",
         "longDescription": "A high-speed blender that can blend fruits, vegetables, and ice to make delicious smoothies and shakes.",
         "price": 89.99,
@@ -123,7 +123,7 @@
       {
         "id": 11,
         "name": "Toaster",
-        "imageUrl": "https://images.unsplash.com/photo-1558180678-ad8b95ffa810?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1558180678-ad8b95ffa810?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "2-slice toaster with adjustable browning.",
         "longDescription": "A 2-slice toaster with adjustable browning settings and a removable crumb tray for easy cleaning.",
         "price": 49.99,
@@ -135,7 +135,7 @@
       {
         "id": 12,
         "name": "Monitor",
-        "imageUrl": "https://images.unsplash.com/photo-1552831388-6a0b3575b32a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1552831388-6a0b3575b32a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Computer monitor with high resolution.",
         "longDescription": "A computer monitor with high resolution and wide viewing angle. Provides crisp and quality display of graphics and text.",
         "price": 249.99,
@@ -147,7 +147,7 @@
       {
         "id": 13,
         "name": "Fitness Dumbbell",
-        "imageUrl": "https://plus.unsplash.com/premium_photo-1671028546491-f70b21a32cc2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1671028546491-f70b21a32cc2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Fitness dumbbell for workouts.",
         "longDescription": "A fitness dumbbell with adjustable weight, perfect for strength training and resistance exercises. Helps develop muscles and improve physical endurance.",
         "price": 49.99,
@@ -159,7 +159,7 @@
       {
         "id": 14,
         "name": "Iron",
-        "imageUrl": "https://images.unsplash.com/photo-1540544093-b0880061e1a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1540544093-b0880061e1a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Steam iron for wrinkle-free clothes.",
         "longDescription": "A steam iron with vertical steaming function. Provides fast and high-quality ironing of clothes and textiles.",
         "price": 69.99,
@@ -171,7 +171,7 @@
       {
         "id": 15,
         "name": "Microwave Oven",
-        "imageUrl": "https://images.unsplash.com/photo-1584269600519-112d071b35e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1584269600519-112d071b35e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Microwave oven with grill.",
         "longDescription": "A microwave oven with a grill and various cooking modes. Perfect for reheating, cooking, and baking a variety of dishes.",
         "price": 129.99,
@@ -183,7 +183,7 @@
       {
         "id": 16,
         "name": "Bluetooth Speaker",
-        "imageUrl": "https://images.unsplash.com/photo-1589003077984-894e133dabab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1589003077984-894e133dabab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Waterproof Bluetooth speaker.",
         "longDescription": "A waterproof Bluetooth speaker with excellent sound quality. Allows you to listen to music and make calls wirelessly.",
         "price": 89.99,
@@ -195,7 +195,7 @@
       {
         "id": 17,
         "name": "Soccer Ball",
-        "imageUrl": "https://images.unsplash.com/photo-1614632537190-23e4146777db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1614632537190-23e4146777db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Soccer ball for training.",
         "longDescription": "A soccer ball for training with high quality and durability. Ideal for training and playing on both outdoor and indoor fields.",
         "price": 19.99,
@@ -207,7 +207,7 @@
       {
         "id": 18,
         "name": "Pocket Flashlight",
-        "imageUrl": "https://images.unsplash.com/photo-1561916960-dea3b9b0355a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1561916960-dea3b9b0355a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Pocket flashlight with LED illumination.",
         "longDescription": "A pocket flashlight with LED illumination and adjustable brightness. Perfect for hiking, camping, and emergency situations.",
         "price": 9.99,
@@ -219,7 +219,7 @@
       {
         "id": 19,
         "name": "Kitchen Knife Set",
-        "imageUrl": "https://images.unsplash.com/photo-1637625654150-101a420429ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1637625654150-101a420429ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Kitchen knife set with holder.",
         "longDescription": "A kitchen knife set with a holder, including various types of knives for different cutting and food preparation needs.",
         "price": 49.99,
@@ -231,7 +231,7 @@
       {
         "id": 20,
         "name": "Portable Power Bank",
-        "imageUrl": "https://images.unsplash.com/photo-1610056494052-6a4f83a8368c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+        "imageUrl": "https://images.unsplash.com/photo-1610056494052-6a4f83a8368c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&q=80",
         "shortDescription": "Portable power bank for device charging.",
         "longDescription": "A portable power bank with high capacity and fast charging. Perfect for travel and extended trips.",
         "price": 29.99,
