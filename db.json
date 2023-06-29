@@ -87,7 +87,7 @@
       {
         "id": 8,
         "name": "Fitness Tracker",
-        "imageUrl": "https://images.unsplash.com/photo-1557935728-e6d1eaabe558?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1173&q=80",
+        "imageUrl": "",
         "shortDescription": "Smart fitness tracker with activity monitoring.",
         "longDescription": "A smart fitness tracker that monitors activity and heart rate. Track your physical activity and improve your health.",
         "price": 79.99,
